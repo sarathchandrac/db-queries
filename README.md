@@ -7,6 +7,7 @@ python 3.7
 ```
 python -m venv venv
 source venv/scripts/activate
+pip install -r requirements.txt
 ```
 ## Run jupyter notebook
 
