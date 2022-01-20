@@ -1,4 +1,4 @@
-# db-queries
+# DB Queries
 Practice db queries
 ## Prerequisite
 python 3.7
